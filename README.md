@@ -9,6 +9,9 @@
 pod 'GrowingPushExtensionKit' 到 Podfile 文件中，特别需要注意的是要添加到不同的 TARGET 中，如下所示，PushDemo 是主工程的 TARGET，而 extension 是扩展的 TARGET。
 
 ```
+target 'PushDemo' do
+   // 在主工程集成其他SDK
+end
 target 'extension' do
   pod 'GrowingPushExtensionKit'
 end
