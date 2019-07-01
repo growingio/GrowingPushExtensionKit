@@ -35,7 +35,7 @@ end
     self.contentHandler = contentHandler;
     self.bestAttemptContent = [request.content mutableCopy];
 
-    [GrowingPushExtensionKit realTimeSendNotificationRequest:request withCompletionHandler:^(NSError* error) {
+    [GrowingPushExtensionKit sendNotificationRequest:request withCompletionHandler:^(NSError* error) {
         //  修改通知消息
         self.contentHandler(self.bestAttemptContent);
     }];
