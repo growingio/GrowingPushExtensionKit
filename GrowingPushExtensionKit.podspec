@@ -45,7 +45,7 @@ THE SOFTWARE.
                 }
     s.author             = { 'GrowingIO' => 'support@growingio.com' }
     s.platform     = :ios
-    s.ios.deployment_target = "10.0"
+    s.ios.deployment_target = "8.0"
 
     s.source       = { :git => 'https://github.com/growingio/GrowingSDK-iOS-GrowingPushExtensionKit.git', :tag => s.version}
     s.static_framework = true
