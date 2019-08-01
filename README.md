@@ -24,7 +24,7 @@ end
 执行pod update，不要用--no-repo-update选项
 
 ### 手动集成
-下载 GrowingPushKit.framework 并将其添加到 iOS 工程中，选项如下图所示：
+点击链接下载 https://github.com/growingio/GrowingSDK-iOS-GrowingPushExtensionKit/archive/master.zip 解压后将其中的 GrowingPushExtensionKit.framework 添加到 iOS 扩展工程中，选项如下图所示：
 ![ztg0S5VwVDInMVi4.png](https://uploader.shimo.im/f/ztg0S5VwVDInMVi4.png!thumbnail)
 
 ## 调用方式
