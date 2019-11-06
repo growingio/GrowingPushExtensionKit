@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://www.growingio.com/"
   s.license = { type: 'MIT', text: <<-LICENSE
-Copyright (c) 2015-2018 GrowingIO <support@growingio.com>
+Copyright (c) 2015-2019 GrowingIO <support@growingio.com>
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
