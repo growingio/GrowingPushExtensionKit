@@ -1,5 +1,9 @@
 # GrowingSDK-iOS-GrowingPushExtensionKit
 
+此仓库停止维护，请移步仓库https://github.com/growingio/GrowingSDK-iOS-GrowingTouchCoreKit 最新SDK更新日志查看 https://docs.growingio.com/mp/developers/integrations/changelog
+
+
+
 针对iOS10系统及以上的NSNotificationServiceExtension扩展提供的SDK，统计后台通知的到达统计，最低兼容iOS 10系统版本
 
 ## 集成方式
